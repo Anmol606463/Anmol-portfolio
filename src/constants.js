@@ -36,6 +36,8 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
 import agcLogo from './assets/company_logo/agc_logo.png';
+import goFour from './assets/company_logo/go4.png'
+import shivAnsh from './assets/company_logo/shiwansh_solutions.jpeg'
 
 
 // Education Section Logo's
@@ -108,7 +110,7 @@ export const SkillsInfo = [
   export const experiences = [
     {
       id: 0,
-      img: webverseLogo,
+      img: goFour,
       role: "Web Developer Intern",
       company: "GO 4 Server",
       date: "March 2024 - June 2024",
@@ -121,11 +123,11 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      img: agcLogo,
+      img: shivAnsh,
       role: "Fullstack Developer",
       company: "Shivansh Solutions",
       date: "July 2023 - March 2024",
-      desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
+      desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript,.net Core Api, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
       skills: [
         "ReactJS",
         "Redux",
