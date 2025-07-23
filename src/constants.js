@@ -45,7 +45,7 @@ import vpsLogo from './assets/education_logo/vpsLogo.png';
 
 // Project Section Logo's
 import personal from './assets/work_logo/portfolio.png'
-import toolKit from './assets/work_logo/toolKit.png'
+import toolKit from './assets/work_logo/toolkit.png'
 
 
 export const SkillsInfo = [
