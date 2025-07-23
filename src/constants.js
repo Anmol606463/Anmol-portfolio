@@ -44,7 +44,7 @@ import bsaLogo from './assets/education_logo/gla_logo.jpeg';
 import vpsLogo from './assets/education_logo/vpsLogo.png';
 
 // Project Section Logo's
-import personal from './assets/work_logo/Portfolio.png'
+import personal from './assets/work_logo/portfolio.png'
 import toolKit from './assets/work_logo/toolKit.png'
 
 
